@@ -153,10 +153,6 @@ Docteure en sciences du langage (Université de Rouen Normandie, 2021), je suis 
 
 ---
 
-## Ressources
 
-* [**Prompthèque des sciences du langage**](/prompts.html) : bibliothèque de prompts pour la recherche et l'enseignement en linguistique (corpus, annotation, discours, sociolinguistique, didactique du FLE).
-
----
 
 *Ameni Tlili · Dernière mise à jour : novembre 2026*
